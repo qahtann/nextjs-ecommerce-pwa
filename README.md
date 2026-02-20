@@ -40,7 +40,7 @@ A modern, production-ready Progressive Web App (PWA) e-commerce store built with
 
 ```bash
 git clone <your-repo-url>
-cd nextjs-ecommerce-pwa-1
+cd nextjs-ecommerce-pwa
 ```
 
 2. **Install dependencies**
